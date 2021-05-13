@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @lucapug
-- 👀 I’m interested in Data Sciene, Machine Learning and Artificial Intelligence
+- 👀 I’m interested in Data Science, Machine Learning, Artificial Intelligence MLOps,..
 - 🌱 I’m currently learning ML frameworks, MLOps and Cloud Services
-- 💞️ I’m looking to collaborate on projects related on Applied ML and AI , particularly to Remote Sensing and GIS domain
-- 📫 How to reach me lucapug@outlook.it
+- 💞️ I’m looking to collaborate on projects related to Applied ML and AI , particularly to Remote Sensing data and GIS domain
+- 📫 How to reach me lucapug@gmail.com
 - 🛴  I joined Github community in 2014
 
 <!---
